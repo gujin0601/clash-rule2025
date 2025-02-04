@@ -139,6 +139,7 @@ DOMAIN-SUFFIX,ilovelemonhd.me
 DOMAIN-SUFFIX,btschool.net
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,0ff.cc
+DOMAIN-SUFFIX,tracker.0ff.cc
 IP-CIDR,173.245.48.0/20,no-resolve
 IP-CIDR,103.21.244.0/22,no-resolve
 IP-CIDR,103.22.200.0/22,no-resolve
