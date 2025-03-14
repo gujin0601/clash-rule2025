@@ -147,6 +147,7 @@ DOMAIN-SUFFIX,raingfh.top
 DOMAIN-SUFFIX,ptcafe.club
 DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,cspt.top
 IP-CIDR,173.245.48.0/20,no-resolve
 IP-CIDR,103.21.244.0/22,no-resolve
 IP-CIDR,103.22.200.0/22,no-resolve
